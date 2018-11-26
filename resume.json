@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Justina Desriute",
+    "label": "Programmer",
+    "nationality": "Lithuanian",
+    "birth date": "1991-02-03",
+    "email": "justina.d.lt@gmail.com",
+    "phone": "+3706 7071393",
+    "website": {
+      "linkedin": "https://www.linkedin.com/in/justina-de%C5%A1ri%C5%ABt%C4%97-966153101/",
+      "github": "https://github.com/justinadesriuteRE"
+    }, 
+    "summary": "Started in the adult world as a lawyer in European criminal law area and made a decision to change path to programming since law was not challenging and cretive enough for this lifetime.",
+    "location": {
+      "address": "Hainer Weg 24, 14/4",
+      "postalCode": "60599",
+      "city": "Frankfurt am Main",
+      "region": "Hessen"
+    }
+  },
+  "work": [
+    {
+      "company": "Record Evolution",
+      "position": "Full Stack Web Developer",
+      "website": "https://record-evolution.de/datascience",
+      "startDate": "2017-04-16",
+      "endDate": "2018-10-31",
+      "summary": "Web Development using Polymer (JS framework), back-end tasks mainly with Python and SQL. Testing with Nightwatch, continuous integration with Circle CI. Overall deployment of the project in AWS, using Docker and Kubernetes."
+    },
+    {
+      "company": "Netcentric, A Cognizant Digital Business",
+      "position": "Junior Software Engineer",
+      "website": "https://www.netcentric.biz/",
+      "startDate": "2018-11-01",
+      "endDate": "ongoing",
+      "summary": "web development using AEM"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CodeDoor: Frankfurt",
+      "website": "http://codedoor.org/",
+      "startDate": "2018-03-01",
+      "endDate": "ongoing",
+      "summary": "Learning/Training organisation for people willing to learn how to code"
+    },
+    {
+      "organization": "Women Tech Makers Rhein-Main, Frankfurt",
+      "position": "co-organiser",
+      "website": "https://www.linkedin.com/company/women-techmakers-frankfurt/",
+      "startDate": "2018-06-01",
+      "endDate": "ongoing",
+      "summary": "Organising events (trainings, meetups, conferences etc.) to encourage females engage in technology more"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vilnius University",
+      "area": "Law",
+      "studyType": "Master",
+      "startDate": "2009-09-01",
+      "endDate": "2014-06-15"
+    },
+    {
+      "institution": "Udacity (online learning platform)",
+      "area": "Full-Stack Web Development",
+      "studyType": "Nano-degree",
+      "startDate": "2018-03-01",
+      "endDate": "ongoing"
+    }
+  ],
+  "publications": [
+    {
+      "name": "What is REPODS platform all about?",
+      "publisher": "Medium",
+      "releaseDate": "2018-10-22",
+      "website": "https://medium.com/@RecordEvolution/what-is-repods-platform-all-about-cfb22d71f693",
+      "summary": "An overview article on the features of an online-data-warehouse platform REPODS."
+    },
+    {
+      "name": "Complex Infographs with d3.js in REPODS: adding interactivity",
+      "publisher": "Medium",
+      "releaseDate": "2018-07-30",
+      "website": "https://medium.com/data-science-with-repods/complex-infographs-with-d3-js-in-repods-dad051c3246f",
+      "summary": "Follow-up article on how to add interactivity to a complex infograph in REPODS platform"
+    },
+    {
+      "name": "Interactive Infographs with d3.js in REPODS: preparing the structure of the infograph",
+      "publisher": "Medium",
+      "releaseDate": "2018-07-17",
+      "website": "https://medium.com/data-science-with-repods/interactive-infographs-with-d3-js-in-repods-a362e5f23026",
+      "summary": "Guide-through style article on how to create custom interactive infographs in REPODS platform usign d3.js"
+    },
+    {
+      "name": "Interactive Infographs with d3.js in REPODS: preparing the structure of the infograph",
+      "publisher": "Medium",
+      "releaseDate": "2018-06-14",
+      "website": "https://medium.com/data-science-with-repods/data-visualization-with-repods-a4f5866ec5f5",
+      "summary": "Introductory article on how to create custom infographs with d3.js in REPODS platform"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Polymer",
+        "Vue.js",
+        "React.js",
+        "Nightwatch",
+        "Circle CI",
+        "git",
+        "Github", 
+        "Bitbucket"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "English": "C1",
+      "German": "B2",
+      "Russian": "A1",
+      "Spanish": "A1",
+      "Lithuanian": "native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "music",
+      "keywords": [
+        "piano",
+        "guitar",
+        "blues"
+      ],
+      "name": "boardgames",
+      "keywords": [
+        "card games",
+        "role playing games",
+        "collaborative story telling"
+      ],
+      "name": "creative writing",
+      "keywords": [
+        "short stories"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Marko Petzold",
+      "position": "CEO of Record Evolution GmbH",
+      "reference": "She is very dedicated, very skilled and has a very positive spirit. A great contribution to our startup. "
+    }
+  ]
+}
