@@ -9,8 +9,11 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "express": "^4.16.4",
-    "vue": "^2.5.17"
+    "json": "^9.0.6",
+    "vue": "^2.5.17",
+    "vue-carousel": "^0.16.0-rc2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.1.1",
