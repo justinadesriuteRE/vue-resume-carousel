@@ -18,5 +18,6 @@ export default {
     .edu_image {
         width: 20em;
         border-radius: 5px;
+        padding-left: 40px;
     }
 </style>

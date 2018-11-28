@@ -18,5 +18,6 @@ export default {
     .public_image {
         width: 40em;
         border-radius: 5px;
+        padding-left: 40px;
     }
 </style>

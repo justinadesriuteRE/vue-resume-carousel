@@ -18,5 +18,6 @@ export default {
     .interests_image {
         width: 15em;
         border-radius: 5px;
+        padding-left: 40px;
     }
 </style>

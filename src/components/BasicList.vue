@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div>
     <h1>{{ msg }}</h1>
     <img class="basic_image" alt="Basic information list" src="../assets/resume_parts/basic.png">
   </div>
@@ -19,5 +19,6 @@ export default {
   .basic_image {
     width: 45em;
     border-radius: 5px;
+    padding-left: 40px;
   }
 </style>

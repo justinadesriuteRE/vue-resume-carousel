@@ -18,5 +18,6 @@ export default {
     .skills_image {
         width: 13em;
         border-radius: 5px;
+        padding-left: 40px;
     }
 </style>

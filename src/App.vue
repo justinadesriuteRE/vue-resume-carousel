@@ -23,29 +23,28 @@
         <InterestsList msg="Interests"/>
       </slide>
       <slide data-index="4"
-          data-name="MySecondSlideName"
           v-on:click="handleSlideClick">
           <LangList msg="Languages"/>
       </slide>
       <slide data-index="5"
-          data-name="MySecondSlideName"
           v-on:click="handleSlideClick">
           <PublicList msg="Publications"/>
       </slide>
       <slide data-index="6"
-          data-name="MySecondSlideName"
           v-on:click="handleSlideClick">
           <ReferList msg="References"/>
       </slide>
       <slide data-index="7"
-          data-name="MySecondSlideName"
           v-on:click="handleSlideClick">
           <SkillsList msg="Skills"/>
       </slide>
       <slide data-index="8"
-          data-name="MySecondSlideName"
           v-on:click="handleSlideClick">
           <VolunteerList msg="Volunteering"/>
+      </slide>
+      <slide data-index="9"
+          v-on:click="handleSlideClick">
+          <Contacts msg="ping me:"/>
       </slide>
     </carousel>
   </div>
@@ -63,6 +62,7 @@ import PublicList from './components/PublicList.vue'
 import ReferList from './components/ReferList.vue'
 import SkillsList from './components/SkillsList.vue'
 import VolunteerList from './components/VolunteerList.vue'
+import Contacts from './components/Contacts.vue'
 
 export default {
   name: 'app',
@@ -77,7 +77,8 @@ export default {
     PublicList,
     ReferList,
     SkillsList,
-    VolunteerList
+    VolunteerList,
+    Contacts
   }, 
   methods: {
     handleSlideClick: function () {

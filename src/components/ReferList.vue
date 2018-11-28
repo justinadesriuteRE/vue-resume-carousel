@@ -18,5 +18,6 @@ export default {
     .refer_image {
         width: 45em;
         border-radius: 5px;
+        padding-left: 40px;
     }
 </style>
